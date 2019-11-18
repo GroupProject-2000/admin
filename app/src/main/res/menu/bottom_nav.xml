@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_khoanthu"
+        android:icon="@drawable/ic_group_white_24dp"
+        android:title="Partner"/>
+
+    <item
+        android:id="@+id/nav_loaithu"
+        android:icon="@drawable/ic_equalizer_white_24dp"
+        android:title="Statistical" />
+
+</menu>
